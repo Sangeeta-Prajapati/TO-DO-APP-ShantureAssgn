@@ -1,3 +1,10 @@
+TO-DO-LIST:
+
+Technology:
+HTML, CSS, JavaScript, ReactJS, React Hooks.
+
+I didn't find the Shanture Compnay logo so I used random logo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
